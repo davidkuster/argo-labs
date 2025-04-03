@@ -12,4 +12,5 @@ labels:
 patches:
 - path: service.yaml
 - path: preview-service.yaml
+- path: rollout.yaml
 
